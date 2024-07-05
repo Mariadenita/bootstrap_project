@@ -1,0 +1,25 @@
+.c-item {
+    height: 400px;
+    border-radius: 10px;
+    padding: 20px;
+    
+}
+
+.head{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+    
+.img-item {
+    height: 100%;
+    border-radius: 10px;
+}
+span{
+    text-align: justify;
+}
+
